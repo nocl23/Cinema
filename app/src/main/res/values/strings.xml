@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cinema</string>
+    <string name="titre_label">Titre du film</string>
+    <string name="horaire_label">Date heure de la projection</string>
+    <string name="scenario_label">Note scénario /10</string>
+    <string name="realisation_label">Note réalisation /10</string>
+    <string name="musique_label">Note musique /10</string>
+    <string name="scenario">Scénario</string>
+    <string name="realisation">Réalisation</string>
+    <string name="horaire">Horaire du film</string>
+    <string name="description_label">Description</string>
+
+
+
+
+    <string name="add_button_text">ADD</string>
+    <string name="default_guest_name">[Guest name]</string>
+    <string name="default_party_size">\?</string>
+</resources>
